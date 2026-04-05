@@ -2,7 +2,7 @@
 
 A Fallout / Pip-Boy inspired watch face for the **Garmin Fenix 8 Solar 47mm** featuring an animated walking Vault Boy and a retro terminal UI.
 
-Available in five colors — pick the one that matches your style and install it directly from the Garmin Connect IQ store.
+Available in five colors — pick the one that matches your style and sideload it to your watch.
 
 ---
 
