@@ -30,22 +30,28 @@ Available in five colors — pick the one that matches your style and install it
 
 ## Installation
 
-### From Garmin Connect IQ Store (recommended)
-Search for **VaultBoy** on the [Connect IQ Store](https://apps.garmin.com) and install the color variant of your choice directly to your Fenix 8 Solar.
+This watch face is not available on the Garmin Connect IQ Store. Installation requires sideloading.
 
-### Sideload (developer / manual)
 1. Install the [Garmin Connect IQ SDK](https://developer.garmin.com/connect-iq/sdk/) and VS Code with the Monkey C extension.
 2. Clone this repo and open the color folder you want (e.g. `VaultBoy_green/`) in VS Code.
 3. Run **Monkey C: Build Current Project** to compile.
 4. Transfer the resulting `.prg` file to your watch via Garmin Express or USB.
 
-> Note: sideloaded watch faces do not show a Customize button in the watch face menu — that requires a store install.
+> Note: sideloaded watch faces do not show a Customize button in the watch face menu.
 
 ---
 
 ## Compatibility
 
 Garmin Fenix 8 Solar 47mm (MIP 280×280)
+
+---
+
+## Disclaimer
+
+This watch face — including all code, logic, and structure — was generated entirely by **Claude**, an AI assistant made by [Anthropic](https://www.anthropic.com). The human author provided direction, feedback, and testing on real hardware; all implementation was written by the AI.
+
+This project is not affiliated with, endorsed by, or connected to Bethesda Softworks, the Fallout franchise, or Garmin Ltd. Vault Boy is a trademark of Bethesda Softworks LLC.
 
 ---
 
